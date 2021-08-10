@@ -17,11 +17,11 @@ title: 韦清文
 email: weicee@foxmail.com
 name: 韦清文
 description: >- # this means to ignore newlines until "baseurl:"
-  Java后端程序员
+  人民程序员，专注Java、Spring Boot、Spring Cloud、Vue等
 keywords: [Your keywords]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-domain: "weiqingwen.com" # the domain name for your site, e.g. example.com
+domain: "www.weiqingwen.com" # the domain name for your site, e.g. example.com
 language: zh-cn
 # Supported languages list:
 # en: English

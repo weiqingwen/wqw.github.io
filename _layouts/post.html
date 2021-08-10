@@ -13,9 +13,17 @@ layout: default
     {{ content }}
   </div>
   <div class="post-info">
-    <div class="post-date">
+
+    <!-- 2021-08-11 包含最后更新日期 -->
+    <!-- <div class="post-date">
       {{ site.data.lang[site.language].post_write_date }}{{ page.date | date: "%Y-%m-%d" }}{% if page.last_modified_at %}, {{ site.data.lang[site.language].post_update_date }}{{ page.last_modified_at | date: "%Y-%m-%d" }}{% endif %}.
+    </div> -->
+
+    <!-- 2021-08-11 不包含最后更新日期 -->
+    <div class="post-date">
+      {{ site.data.lang[site.language].post_write_date }}{{ page.date | date: "%Y-%m-%d" }}
     </div>
+
     <div class="post-categories">
       <span>{{ site.data.lang[site.language].post_categories }}</span>
       {% for category in page.categories %}
