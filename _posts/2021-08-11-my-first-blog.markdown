@@ -3,8 +3,8 @@ layout: post
 title:  "第一篇博文"
 date:   2021-08-11
 last_modified_at: 2021-08-11
-categories: [日常]
-tags: [第一篇博客, 博客]
+categories: [数据库]
+tags: [MongoDB]
 ---
 
 Jekyll Paper is a Jekyll theme, it is designed to helping you to create your own blog by the easiest way. Now, you can learn how to use this blog by this post.

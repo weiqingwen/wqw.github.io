@@ -7,6 +7,6 @@
 - default: menu_about
   url:   "about"
 
-- title: "Instagram"
-  absoluteUrl: true
-  url: "https://www.instagram.com/wei_cee"
+# - title: "Instagram"
+#   absoluteUrl: true
+#   url: "https://www.instagram.com/wei_cee"
