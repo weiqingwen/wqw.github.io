@@ -17,12 +17,12 @@ title: 韦清文
 email: weicee@foxmail.com
 name: 韦清文
 description: >- # this means to ignore newlines until "baseurl:"
-  人民程序员，专注Java、Spring Boot、Spring Cloud、Vue等
+  专注Java、Spring Boot、Spring Cloud、Vue等
 keywords: [Your keywords]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "www.weiqingwen.com" # the domain name for your site, e.g. example.com
-language: zh-cn
+language: en
 # Supported languages list:
 # en: English
 # de: Deutsche (German)
@@ -44,7 +44,8 @@ disqus:          # disqus account
 mathjax: true # Mathematics
 mermaid: true # Diagrams
 
-permalink: /:year/:month/:day/:title
+#permalink: /:year/:month/:day/:title
+permalink: :title
 
 sass:
   sass_dir: _sass
