@@ -4,9 +4,12 @@
 - default: menu_category
   url:   "category"
 
+# - default: menu_article
+#   url:   "category/java"
+
 - default: menu_about
   url:   "about"
 
-# - title: "Instagram"
-#   absoluteUrl: true
-#   url: "https://www.instagram.com/wei_cee"
+- title: "IG"
+  absoluteUrl: true
+  url: "https://www.instagram.com/wei_cee"
